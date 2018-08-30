@@ -1,4 +1,4 @@
-#Date
+#Data
 from numpy import *
 import matplotlib.pyplot as plt
 from openpyxl import load_workbook
